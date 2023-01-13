@@ -1,38 +1,35 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  src: url("./Fonts/IRANYekan.woff") format("woff"),
+    url("./Fonts/IRANYekan.woff2") format("woff2");
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+@font-face {
+  font-family: IRANYekan-light;
+  font-style: normal;
+  font-weight: 300;
+  src: url("./Fonts/IRANYekanLight.woff") format("woff"),
+    url("./Fonts/IRANYekanLight.woff2") format("woff2");
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+@font-face {
+  font-family: IRANYekan-bold;
+  font-style: normal;
+  font-weight: bold;
+  src: url("./Fonts/IRANYekanBold.woff") format("woff"),
+    url("./Fonts/IRANYekanBold.woff2") format("woff2");
 }
-
-.App-link {
-  color: #61dafb;
+html {
+  width: 100%;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+body {
+  font-family: IRANYekan;
+}
+a {
+  text-decoration: none;
 }

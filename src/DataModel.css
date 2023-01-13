@@ -1,0 +1,8 @@
+.dataModel-img {
+  width: 1000px;
+  height: 1000px;
+  background-image: url("../Datamodel.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
