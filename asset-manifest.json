@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.c0c8ca41.css",
-    "main.js": "/react-gh-pages/static/js/main.bc3c40f5.js",
-    "static/media/Datamodel.svg": "/react-gh-pages/static/media/Datamodel.330b75232f74bcf95d4e.svg",
-    "static/media/IRANYekanLight.woff": "/react-gh-pages/static/media/IRANYekanLight.10d95cef618f98f71b6a.woff",
-    "static/media/IRANYekanLight.woff2": "/react-gh-pages/static/media/IRANYekanLight.10d95cef618f98f71b6a.woff2",
-    "static/media/IRANYekan.woff": "/react-gh-pages/static/media/IRANYekan.3fb368ca1bd556d23f46.woff",
-    "static/media/IRANYekan.woff2": "/react-gh-pages/static/media/IRANYekan.3fb368ca1bd556d23f46.woff2",
-    "static/media/IRANYekanBold.woff": "/react-gh-pages/static/media/IRANYekanBold.bf06c5785933b760da70.woff",
-    "static/media/IRANYekanBold.woff2": "/react-gh-pages/static/media/IRANYekanBold.bf06c5785933b760da70.woff2",
-    "index.html": "/react-gh-pages/index.html",
-    "main.c0c8ca41.css.map": "/react-gh-pages/static/css/main.c0c8ca41.css.map",
-    "main.bc3c40f5.js.map": "/react-gh-pages/static/js/main.bc3c40f5.js.map"
+    "main.css": "/db-app/static/css/main.348d7b85.css",
+    "main.js": "/db-app/static/js/main.bc3c40f5.js",
+    "static/media/Datamodel.svg": "/db-app/static/media/Datamodel.330b75232f74bcf95d4e.svg",
+    "static/media/IRANYekanLight.woff": "/db-app/static/media/IRANYekanLight.10d95cef618f98f71b6a.woff",
+    "static/media/IRANYekanLight.woff2": "/db-app/static/media/IRANYekanLight.10d95cef618f98f71b6a.woff2",
+    "static/media/IRANYekan.woff": "/db-app/static/media/IRANYekan.3fb368ca1bd556d23f46.woff",
+    "static/media/IRANYekan.woff2": "/db-app/static/media/IRANYekan.3fb368ca1bd556d23f46.woff2",
+    "static/media/IRANYekanBold.woff": "/db-app/static/media/IRANYekanBold.bf06c5785933b760da70.woff",
+    "static/media/IRANYekanBold.woff2": "/db-app/static/media/IRANYekanBold.bf06c5785933b760da70.woff2",
+    "index.html": "/db-app/index.html",
+    "main.348d7b85.css.map": "/db-app/static/css/main.348d7b85.css.map",
+    "main.bc3c40f5.js.map": "/db-app/static/js/main.bc3c40f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0c8ca41.css",
+    "static/css/main.348d7b85.css",
     "static/js/main.bc3c40f5.js"
   ]
 }
