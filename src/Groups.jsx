@@ -13,7 +13,7 @@ const Groups = () => {
   return (
     <>
       <div dir="ltr" className="groupTable-container">
-        <table id="groupTable">
+        <table id="mainTable">
           {data.map((item, index) => (
             <>
               <tr>

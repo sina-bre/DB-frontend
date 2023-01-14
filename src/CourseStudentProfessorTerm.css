@@ -1,5 +1,5 @@
 .CourseStudentProfessorTerm-container {
-  /* width: 100%; */
+  width: 70%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -25,6 +25,8 @@
 #CourseStudentProfessorTermTable {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
+  margin-top: 1rem;
+  margin-left: 4rem;
 }
 
 #CourseStudentProfessorTermTable td,

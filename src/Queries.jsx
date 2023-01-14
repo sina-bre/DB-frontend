@@ -1,4 +1,4 @@
-import "./Querys.css";
+import "./Queries.css";
 import Query from "./Query";
 import { useState, useEffect } from "react";
 const Querys = () => {
@@ -18,7 +18,7 @@ const Querys = () => {
 
   return (
     <>
-      <div className="Querys-container">
+      <div className="Queries-container">
         <Query
           code={`select maindb.students.Name , maindb.students.Birth_Date\nfrom maindb.students\nwhere maindb.students.Student_ID = 11118`}
           number={1}

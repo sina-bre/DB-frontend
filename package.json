@@ -1,6 +1,5 @@
 {
   "name": "db-app",
-  "homepage": "http://sina-bre.github.io/db-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,14 +10,13 @@
     "prismjs": "^1.29.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
     "react-router-dom": "^6.6.2",
     "react-scripts": "5.0.1",
     "react-syntax-highlighter": "^15.5.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -43,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "@iconify/react": "^4.0.1",
     "gh-pages": "^4.0.0"
   }
 }

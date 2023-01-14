@@ -1,0 +1,14 @@
+.Queries-container {
+  width: 1000px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  /* margin-top: 5rem; */
+  /* margin-left: 4rem; */
+}
+@media screen and (max-width: 1000px) {
+  .Queries-container {
+    width: 100%;
+  }
+}

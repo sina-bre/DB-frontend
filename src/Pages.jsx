@@ -1,5 +1,5 @@
 import { Routes, Route, Link } from "react-router-dom";
-import Querys from "./Querys";
+import Queries from "./Queries";
 import Home from "./Home";
 import ShowTable from "./ShowTable";
 import DataModel from "./DataModel";
@@ -16,7 +16,7 @@ const Pages = () => {
     <>
       <Routes>
         <Route path="/" element={<Home />}>
-          <Route path="/querys" element={<Querys />} />
+          <Route path="/queries" element={<Queries />} />
           <Route path="/querys/:index" element={<ShowTable />} />
           <Route path="/dataModel" element={<DataModel />} />
           <Route path="/students" element={<Students />} />

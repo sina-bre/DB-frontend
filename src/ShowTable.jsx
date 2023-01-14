@@ -17,7 +17,7 @@ const ShowTable = () => {
     console.log(data);
   }, [data]);
   const backOnClickHandler = () => {
-    navigate(`/querys`);
+    navigate(`/queries`);
   };
   return (
     <>

@@ -1,13 +1,18 @@
 .Query-container {
-  /* width: 70%; */
   width: 800px;
-  max-width: 100%;
+  /* width: 70%; */
   margin-bottom: 5rem;
+  margin-top: 1rem;
   background-color: #ffffff;
   box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
   border-radius: 15px;
   padding: 1rem;
   transition: 0.3s;
+}
+@media screen and (max-width: 1000px) {
+  .Query-container {
+    width: 100%;
+  }
 }
 .Query-container:hover {
   transform: scale(1.02);

@@ -13,7 +13,7 @@ const Courses = () => {
   return (
     <>
       <div dir="ltr" className="courseTable-container">
-        <table id="courseTable">
+        <table id="mainTable">
           {data.map((item, index) => (
             <>
               <tr>

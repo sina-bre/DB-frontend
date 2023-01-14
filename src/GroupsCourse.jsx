@@ -13,7 +13,7 @@ const GroupsCourse = () => {
   return (
     <>
       <div dir="ltr" className="groupCourseTable-container">
-        <table id="groupCourseTable">
+        <table id="mainTable">
           {data.map((item, index) => (
             <>
               <tr>

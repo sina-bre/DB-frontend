@@ -15,7 +15,7 @@ const Query = (props) => {
   };
   return (
     <>
-      <div className="Query-container">
+      <div className="Query-container" dir="rtl">
         <div className="Query-container-container">
           <div className="Query-top">
             <div>
